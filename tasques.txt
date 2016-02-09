@@ -1,0 +1,23 @@
+Tasques a realitzar per part dels administradors del programa.
+
+- Administrar Alumnes (Inserir, Modificar, Eliminar)
+- Administrar Professors (Inserir, Modificar, Eliminar)
+- Administrar les Tutories (Alumnes x cicles x tutor, professors x cicles).
+- Administrar els Gremis (Inserir, Modificar, Eliminar) *
+- Administrar els Cicles Formatius (Inserir, Modificar, Eliminar) *
+- Administrar les Empreses (Inserir, Modificar, Eliminar)
+- Administrar les Ofertes de Treball (Inserir, Modificar, Eliminar)
+- Administrar les Peticions de FCT (Inserir, Modificar, Eliminar)
+
+- Consultar les peticions de FCT en funció del seu estat (Totes, Per Validar, Disponible, En Curs, etc)
+- Consultar les Empreses.
+- Consultar els Alumnes.
+- Consultar els Professors.
+
+
+
+
+
+
+
+* Probablement comportarà fer canvis al codi del programa!

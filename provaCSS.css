@@ -1,0 +1,16 @@
+/* Prova amb CSS */
+
+/* Apliquem a totes al contingut de totes les etiquetes "p"*/
+p{
+color: red;
+}
+
+/* Apliquem el canvi als ID especificats*/
+#liniaA{
+	color: blue;
+}
+
+#blocQuadre{
+	width: 900px;
+  margin: 0 auto;
+}
